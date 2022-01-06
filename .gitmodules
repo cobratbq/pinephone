@@ -1,0 +1,3 @@
+[submodule "modem"]
+	path = modem
+	url = https://github.com/Biktorgj/quectel_eg25_recovery.git
