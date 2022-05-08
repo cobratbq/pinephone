@@ -1,3 +1,6 @@
 [submodule "modem"]
-	path = modem
+	path = sources/modem-quectel
 	url = https://github.com/Biktorgj/quectel_eg25_recovery.git
+[submodule "modem_free_software"]
+	path = sources/modem-sdk
+	url = https://github.com/Biktorgj/pinephone_modem_sdk.git
